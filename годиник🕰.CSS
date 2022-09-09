@@ -4,7 +4,7 @@ body {
 #годиник🕰{
     width: 500px;
     height: 500px;
-    background-image: url(../img/циферблат⏳.png);
+    background-image: url(imeg/циферблат⏳.png);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,6 +13,6 @@ body {
     position: absolute;
     width: 38px;
     height: 416px;
-    background-image: url("../img/секундна стрілка.png");
+    background-image: url("imeg/секундна стрілка.png");
     background-size: cover;
 }
